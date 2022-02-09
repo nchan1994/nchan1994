@@ -3,13 +3,13 @@
 
 
 
-- 👋 Hi, I’m Nicholas Chan! **Data Scientist** and **Registered Business Psychologist**
+- 👨‍🏫 **Data Scientist** and **Registered Business Psychologist**
 
 - 👀 I’m interested in **Data Science, Data Analysis, Customer Analysis, and Fitness**
 
 - 📝 Recently completed a **16-week Full-time Data Science and Machine Learning Immersive Bootcamp** in Hong Kong
 
-- 🌱 Recently completed the DeepLearning AI TensorFlow Developer Specialization** 
+- 🌱 Recently completed the **DeepLearning AI TensorFlow Developer Specialization** 
 
 - 👨‍💻 All of my **projects** are available at [https://github.com/nchan1994](https://github.com/nchan1994)
 

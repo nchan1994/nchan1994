@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **Data Science, Data Analysis, Customer Analysis, and Fitness**
 
-- 📝 Recently completed a **16-week Full-time Data Science and Machine Learning Immersive Bootcamp** in Hong Kong
+- 📝 Recently completed a **16-week Full-time Data Science and Machine Learning Immersive Bootcamp**
 
 - 🌱 Recently completed the **DeepLearning AI TensorFlow Developer Specialization** 
 

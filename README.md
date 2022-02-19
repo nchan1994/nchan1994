@@ -5,7 +5,7 @@
 
 - 👨‍🏫 **Data Scientist** and **Registered Business Psychologist**
 
-- 👀 I’m interested in **Data Science, Data Analysis, Customer Analysis, and Fitness**
+- 👀 I’m interested in **Data Science, Data Analysis, Deep Learning, Business Intellignece, and Fitness 🏋🏻 **
 
 - 📝 Recently completed a **16-week Full-time Data Science and Machine Learning Immersive Bootcamp**
 

@@ -11,6 +11,8 @@
 
 - 🌱 Recently completed the **DeepLearning AI TensorFlow Developer Specialization** 
 
+- 🌱 Recently completed the **SQL for Data Science** on Coursera
+
 - 👨‍💻 All of my **projects** are available at [https://github.com/nchan1994](https://github.com/nchan1994)
 
 - 💬 Reach me at **channicholas94@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/nicholaschan19/)**

@@ -9,9 +9,9 @@
 
 - 📝 Recently completed a **16-week Full-time Data Science and Machine Learning Immersive Bootcamp**
 
-- 🌱 Recently completed the **DeepLearning AI TensorFlow Developer Specialization** 
-
 - 🌱 Recently completed the **SQL for Data Science** on Coursera
+
+- 🌱 Currently completing the **DeepLearning AI TensorFlow Developer Specialization** , I'm a life long learner!
 
 - 👨‍💻 All of my **projects** are available at [https://github.com/nchan1994](https://github.com/nchan1994)
 

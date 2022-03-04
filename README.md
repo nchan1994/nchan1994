@@ -9,6 +9,8 @@
 
 - 📝 Recently completed a **16-week Full-time Data Science and Machine Learning Immersive Bootcamp**
 
+- 📝 Recently completed **Data Visualization with Tableau Specialization**. Check out my projects on my [Tableau Public](https://public.tableau.com/app/profile/nicholas4459)
+
 - 🌱 Recently completed the **SQL for Data Science** on Coursera
 
 - 🌱 Currently completing the **DeepLearning AI TensorFlow Developer Specialization** , I'm a life long learner!
